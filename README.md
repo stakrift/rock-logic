@@ -32,7 +32,7 @@ P6 Miscellaneous Challenges
 
 Each phase builds on the previous one to ensure a solid logical foundation.
 
----
+
 
 ## ***What Each Phase Contains***
 
@@ -54,7 +54,7 @@ Explanation
 Thought process
 Why the approach works
 
----
+
 
 ## ***Recommended Workflow***
 
@@ -69,7 +69,7 @@ Re-implement without looking at the solution
 
 > ***Do not passively read solutions. Always attempt first.***
 
----
+
 
 ## ***Philosophy***
 
@@ -77,7 +77,7 @@ Re-implement without looking at the solution
 
 Solving fewer problems with full understanding is significantly more effective than solving many problems superficially.
 
----
+
 
 ## ***Who This Is For***
 
@@ -97,6 +97,3 @@ Contributions are welcome if they align with the goal of the repository:
 
 ---
 
-## ***Note***
-
-This guide will continue to evolve with more phases, refined explanations, and better problem sets over time.
