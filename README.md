@@ -21,12 +21,12 @@ This repository is designed to help you ***think like an engineer***, not just c
 
 The content is divided into progressive phases:
 
-P1 Conditionals
-P2 Loops
-P3 Recursion
-P4 Arrays
-P5 Strings
-P6 Miscellaneous Challenges
+P1 Conditionals\
+P2 Loops\
+P3 Recursion\
+P4 Arrays\
+P5 Strings\
+P6 Miscellaneous Challenges\
 ... more coming
 
 
